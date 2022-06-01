@@ -57,5 +57,3 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   </tr>
 </table>
 
-
-[⬆ Voltar ao topo](#Uber Data Export Dashboard)<br>
