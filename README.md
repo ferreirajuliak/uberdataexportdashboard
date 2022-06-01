@@ -21,7 +21,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você instalou a versão mais recente de `<refazer o projeto em uma venv e gerar um requirements.txt>`
 * Você leu `julia's blog com mais informações e descrições`.
 
-## ☕ Usando <nome_do_projeto>
+## ☕ Usando Uber Data Export Dashboard
 
 Para usar Uber Data Export Dashboard, siga estas etapas:
 
