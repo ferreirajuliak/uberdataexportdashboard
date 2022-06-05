@@ -14,13 +14,6 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [ ] Visualização em mapa de produtos Uber por localização
 - [ ] Visualização em gráfico de produtos Uber por localização, data e valor
 
-## 💻 Pré-requisitos
-
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
-<!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
-* Você instalou a versão mais recente de `<refazer o projeto em uma venv e gerar um requirements.txt>`
-* Você leu `julia's blog com mais informações e descrições`.
-
 ## ☕ Usando Uber Data Export Dashboard
 
 Para usar Uber Data Export Dashboard, siga estas etapas:
@@ -57,3 +50,4 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   </tr>
 </table>
 
+Saiba mais sobre mim no meu blog: https://juliakferreira.digitalpress.blog/
